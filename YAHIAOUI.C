@@ -9,7 +9,7 @@
 #include<math.h>
 #include<time.h>
 #include<omp.h>
-#define n 30000000000
+#define n 3000
 
 
 
